@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292714341837",
+    "firebase_url": "https://projetophuel.firebaseio.com",
+    "project_id": "projetophuel",
+    "storage_bucket": "projetophuel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292714341837:android:9a697653e01c2aec",
+        "android_client_info": {
+          "package_name": "com.example.phuel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292714341837-kof2ckovfubiil0ecji12hhj0d7aa8ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8i74lqaXoGGnsvKhXBrBOtYWA0AIpQeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292714341837-kof2ckovfubiil0ecji12hhj0d7aa8ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
